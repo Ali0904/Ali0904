@@ -73,7 +73,29 @@
 
 <div align="center">
 
-#### 🏥 [FPGA-Based Smart Health Monitoring System](https://github.com/Ali0904/Smart-Audio-Mixer)
+#### 🧠 [TinyML Voice-Controlled IoT Dashboard](https://github.com/Ali0904/TinyML-Voice-Dashboard)
+> ESP32-S3 N16R8 with browser-based voice control via Web Speech API
+
+Real-time IoT dashboard with WebSocket system metrics, audio waveform visualizer, OTA firmware updates, and voice commands (start, stop, status, reboot). No on-device ML — speech recognition runs in Chrome.
+
+![ESP32](https://img.shields.io/badge/ESP32--S3-00D4AA?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_Framework-00979D?style=flat-square&logo=arduino&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Web_Speech_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00D4AA?style=flat-square&logo=freebsd&logoColor=white)
+
+---
+
+#### 🎵 [Smart Audio Mixer](https://github.com/Ali0904/Smart-Audio-Mixer)
+> MATLAB-based GUI Audio Mixer
+
+Mix six preloaded audio tracks with real-time voice recording. Features volume control, signal visualization, and .wav export.
+
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6C00?style=flat-square&logo=mathworks&logoColor=white)
+![DSP](https://img.shields.io/badge/Audio_DSP-3498DB?style=flat-square&logo=signal&logoColor=white)
+
+---
+
+#### 🏥 FPGA-Based Smart Health Monitoring System
 > **Best FYP Award — 3rd Career Fest (Open House 2026)**
 
 Built a complete RISC-V core on Digilent Basys3 Artix-7 FPGA @ 100 MHz (145 mW).  
@@ -87,7 +109,7 @@ Developed embedded C firmware for real-time acquisition, digital filtering, and 
 
 ---
 
-#### 🤖 [Self-Control Sumo Robot](https://github.com/Ali0904/Smart-Audio-Mixer)
+#### 🤖 Self-Control Sumo Robot
 > **1st Place — Namal Tech Expo 2025**
 
 Embedded sensor fusion and PID motor control in C++ on Arduino.  
@@ -99,7 +121,7 @@ Best-in-class speed and accuracy.
 
 ---
 
-#### ⚙️ [5-Stage Pipelined Processor in Verilog](https://github.com/Ali0904/Smart-Audio-Mixer)
+#### ⚙️ 5-Stage Pipelined Processor in Verilog
 > Full CPU with hazard detection and forwarding
 
 Designed a complete CPU pipeline — because understanding the pipeline makes me a better firmware engineer.
