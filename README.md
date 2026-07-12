@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=I+design+hardware+and+write+firmware+for+it;RISC-V+%E2%80%A2+FPGA+%E2%80%A2+Embedded+C+%E2%80%A2+IoT+%E2%80%A2+Signal+Processing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=I+design+hardware+and+write+firmware+for+it;RISCV+%E2%80%A2+FPGA+%E2%80%A2+Embedded+C+%E2%80%A2+IoT+%E2%80%A2+Signal+Processing" alt="Typing SVG" />
 
 </div>
 
